@@ -1,5 +1,11 @@
 # hello-world
 The Hello World project is a time-honored tradition in computer programming.
 
-A little bit about me:
-I am a third semester Computer Programming and Analysis Advanced Diploma student at Seneca College (Toronto, ON).
+What I accomplished in this project:
+- Created an opne source repository
+- Started and managed a new branch
+- Changed a file and committed those changes to GitHub
+- Opened and merged a Pull Request
+
+Tutorial: https://guides.github.com/activities/hello-world/
+
